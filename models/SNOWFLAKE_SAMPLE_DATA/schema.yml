@@ -1,5 +1,5 @@
 version: 2
 sources:
-  -name: customerdata
-  tables: customer
+  -name: SNOWFLAKE_SAMPLE_DATA
+  tables: CUSTOMER
     
